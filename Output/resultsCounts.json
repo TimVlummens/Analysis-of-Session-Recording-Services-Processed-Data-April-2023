@@ -1,0 +1,11 @@
+{
+    "Combined presence, input": 3257,
+    "Combined presence, no input": 4085,
+    "Contains all listeners": 33651,
+    "Inputs Detected in plaintext": 745,
+    "Single domain, input": 2014,
+    "Single domain, no input": 8054,
+    "Sites with Input": 14357,
+    "Sites without Input": 67513,
+    "Total": 81870
+}
